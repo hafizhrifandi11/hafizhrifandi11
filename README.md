@@ -14,7 +14,9 @@ I combine engineering problem-solving mindsets with modern data tools to turn ra
 ---
 
 ### 📊 Featured Project
-* **[Beecycle Sales Dashboard](https://github.com/hafizhrifandi11)** – An interactive Power BI dashboard tracking multi-year retail performance, customer demographics, and profit margins.
+* **[Beecycle Sales Dashboard](https://github.com/hafizhrifandi11/beecycle_sales_performance_analytics_dashboard)** – An interactive Power BI dashboard tracking multi-year retail performance, customer demographics, and profit margins.
+
+* **[Brazilian E-Commerce Dashboard](https://github.com/hafizhrifandi11/brazilian_ecommerce_public_by_olist)** - An interactive Business Intelligence dashboard analyzing Brazilian e-commerce public data (Olist), covering revenue trends, customer behavior, and regional sales distribution.
 
 ---
 
