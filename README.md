@@ -2,7 +2,7 @@
 
 🌱 **Mechanical Engineering Graduate (Universiti Teknologi Malaysia)** currently transitioning into **Data Analytics & Business Intelligence**. 
 
-I combine engineering problem-solving mindsets with modern data tools to turn raw data into actionable insights.
+Aspiring Data & Business Intelligence Analyst | Leveraging engineering problem-solving to build data-driven solutions, interactive dashboards, and strategic business analytics.
 
 ---
 
