@@ -18,6 +18,7 @@
 
 * **[Brazilian E-Commerce Dashboard](https://github.com/hafizhrifandi11/brazilian_ecommerce_public_by_olist)** - An interactive Business Intelligence dashboard analyzing Brazilian e-commerce public data (Olist), covering revenue trends, customer behavior, and regional sales distribution.
 
+* **[Marketing Channel Analysis Dashboard](https://github.com/hafizhrifandi11/marketing_channel_analysis)** - Data Analytics project analyzing marketing channel efficacy (Revenue, Profit, CVR, Impressions) to drive data-informed product targeting strategies.
 ---
 
 ### 📫 Let's Connect
