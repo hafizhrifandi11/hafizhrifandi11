@@ -19,6 +19,8 @@
 * **[Brazilian E-Commerce Dashboard](https://github.com/hafizhrifandi11/brazilian_ecommerce_public_by_olist)** - An interactive Business Intelligence dashboard analyzing Brazilian e-commerce public data (Olist), covering revenue trends, customer behavior, and regional sales distribution.
 
 * **[Marketing Channel Analysis Dashboard](https://github.com/hafizhrifandi11/marketing_channel_analysis)** - Data Analytics project analyzing marketing channel efficiency (Revenue, Profit, CVR, Impressions) to drive data-informed product targeting strategies.
+  
+* **[RFM Analysis Customer Segmentation Superstore Dashboard](https://github.com/hafizhrifandi11/rfm_analysis_customer_segmentation_dashboard)** - A Customer Analytics dashboard evaluating RFM segments (Recency, Frequency, Monetary) to uncover high-value shoppers and drive targeted marketing strategies
 ---
 
 ### 📫 Let's Connect
