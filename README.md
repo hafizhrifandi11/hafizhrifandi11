@@ -21,8 +21,8 @@
 * **[Brazilian E-Commerce Dashboard](https://github.com/hafizhrifandi11/brazilian_ecommerce_public_by_olist)** - An interactive Business Intelligence dashboard analyzing Brazilian e-commerce public data (Olist), covering revenue trends, customer behavior, and regional sales distribution.
 * **[Marketing Channel Analysis Dashboard](https://github.com/hafizhrifandi11/marketing_channel_analysis)** - Data Analytics project analyzing marketing channel efficiency (Revenue, Profit, CVR, Impressions) to drive data-informed product targeting strategies.
 * **[RFM Analysis Customer Segmentation Superstore Dashboard](https://github.com/hafizhrifandi11/rfm_analysis_customer_segmentation_dashboard)** - A Customer Analytics dashboard evaluating RFM segments (Recency, Frequency, Monetary) to uncover high-value shoppers and drive targeted marketing strategies.
-* ** [Automotive After-Sales Analysis](https://github.com/hafizhrifandi11/after_sales_analysis) – An end-to-end automotive after-sales analytics project using Python, Pandas, and Power BI to analyze service performance, spare-part contribution, and customer engagement.
-* ** [Airline Industry Time Series Analysis](https://github.com/hafizhrifandi11/time_series_airline_industry) – Time series analysis and forecasting to explore passenger trends and industry growth patterns.
+* [Automotive After-Sales Analysis](https://github.com/hafizhrifandi11/after_sales_analysis) – An end-to-end automotive after-sales analytics project using Python, Pandas, and Power BI to analyze service performance, spare-part contribution, and customer engagement.
+* [Airline Industry Time Series Analysis](https://github.com/hafizhrifandi11/time_series_airline_industry) – Time series analysis and forecasting to explore passenger trends and industry growth patterns.
 
 ---
 
